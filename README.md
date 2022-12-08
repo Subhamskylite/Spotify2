@@ -1,10 +1,6 @@
 
 # Spotify Web Clone App
 
-A spotify clone built with <strong>React</strong> - [DEMO](https://platify.netlify.app/)
-
-<a href="https://platify.netlify.app/" ><img src="https://github.com/namratapdr/spotify-clone/blob/master/demo/platify.gif" alt="demo"></a>
-
 
 # 📖 Features of this app:
 #### ✅Cross Platform functionality
